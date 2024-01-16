@@ -1,0 +1,10 @@
+{
+  "name": "avif-to-jpeg",
+  "version": "0.0.1",
+  "description": "Command line tool to convert AVIF to JPEG",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sharp": "^0.33.2"
+  }
+}
