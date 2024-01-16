@@ -1,5 +1,5 @@
 {
-  "name": "avif-to-jpeg",
+  "name": "conv-avif",
   "version": "0.0.1",
   "description": "Command line tool to convert AVIF to JPEG",
   "dependencies": {
