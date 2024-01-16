@@ -1,12 +1,19 @@
 # conv-avif
 
-avif形式の画像群をjpg形式の画像群に変換
+avif形式の画像群をjpg形式の画像群にコマンドラインから変換
 
-### example
 
 ```
 npm install
 ```
+
+### example
+> 
+> avif画像群のディレクトリパス:
+> ~/Downloads/avif
+> 
+> jpg画像群のディレクトリパス:
+> ~/Downloads/jpg
 ```
 node convert.js ~/Downloads/avif ~/Downloads/jpg
 ```
